@@ -54,7 +54,7 @@ module.exports = function(api) {
         }
       ],
       [
-        '@babel/plugin-transfomr-private-methods',
+        '@babel/plugin-transform-private-methods',
         {
           loose: true
         }
